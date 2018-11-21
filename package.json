@@ -16,10 +16,10 @@
   "license": "MIT",
   "models": [
     {
-      "id": "raft",
+      "id": "TARA",
       "label": "TARA",
       "spec": "tara.model",
-      "view": "raft.js",
+      "view": "tara.js",
       "clock": "ms",
       "speed": 50
     }
